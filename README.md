@@ -1,4 +1,13 @@
-### Hi there 👋
+### hello I am NintenSquidd
+### i run a youtube channel, i am a web developer, and I like to play games too
+
+# some of the stuff I work on are [Random Disaster Generator](https://random-disaster-generator.glitch.me) and video editing projects.
+
+
+# pronouns: he/him
+# favorite game: Team Fortress 2
+# favorite anime: Cowboy Bebop
+# i also really really really like doom
 
 <!--
 **nintensquidd/nintensquidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
