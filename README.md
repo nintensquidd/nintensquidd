@@ -7,7 +7,7 @@
 #### pronouns: he/him
 #### favorite game: Team Fortress 2
 #### favorite anime: Cowboy Bebop
-##### i also really really really like doom :goberserk:
+##### i also really really really like doom :feelsgood:
 
 <!--
 **nintensquidd/nintensquidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
